@@ -38,6 +38,11 @@ PICK MATE is a dynamic and customizable dropdown application that allows users t
 - **Lucide Icons**: For icons (X, ChevronDown).
 
 ## Screenshot
+1. !1. ![image alt](https://github.com/ANIKETKOLI20/pick-mate0/blob/dropdown/Screenshot%20(1252).png?raw=true)
+2. ![image alt](https://github.com/ANIKETKOLI20/pick-mate0/blob/dropdown/Screenshot%20(1253).png?raw=true)
+3. ![image alt](https://github.com/ANIKETKOLI20/pick-mate0/blob/dropdown/Screenshot%20(1254).png?raw=true)
+4. ![image alt](https://github.com/ANIKETKOLI20/pick-mate0/blob/dropdown/Screenshot%20(1255).png?raw=true)
+
 
 ## Link 
 Deployment : https://pick-mate--zeta.vercel.app/
