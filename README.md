@@ -1,8 +1,21 @@
 # PICK MATE - Multi-Select and Single-Select Dropdown with Custom Options
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Installation](#installation)
+5.[Screenshot](#screenshot)
+6. [Link](#link)
+---
+
 ## Overview
 
 PICK MATE is a dynamic and customizable dropdown application that allows users to select single or multiple options. The project includes error handling, user-friendly UI, and persistent local storage to save selections and settings (e.g., theme preferences). It supports custom option addition with limits and ensures data integrity by preventing duplicates.
+
+[Back to Table of Contents](#table-of-contents)
+
+---
 
 ## Features
 
@@ -13,6 +26,10 @@ PICK MATE is a dynamic and customizable dropdown application that allows users t
 - **Customizable Theme**: Toggle between light and dark themes.
 - **Responsive Design**: Ensures the UI is mobile-friendly and adaptive.
 
+[Back to Table of Contents](#table-of-contents)
+
+---
+
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
@@ -20,13 +37,9 @@ PICK MATE is a dynamic and customizable dropdown application that allows users t
 - **LocalStorage**: To persist selections and theme settings.
 - **Lucide Icons**: For icons (X, ChevronDown).
 
-## Installation
+## Screenshot
 
-### Prerequisites
-
-- Ensure that you have `Node.js` and `npm` installed on your system.
-
-### Links 
-
-**Deploy** : https://pick-mate.vercel.app/ 
-**GitHub** : https://github.com/ANIKETKOLI20/pick-mate
+## Link 
+Deployment : https://pick-mate--zeta.vercel.app/
+Github : https://github.com/ANIKETKOLI20/pick-mate0
+Video : https://drive.google.com/file/d/1frtiCt1JRXAupXcqHou1ZEOBgDMvfjkH/view?usp=sharing
