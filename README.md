@@ -4,9 +4,8 @@
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5.[Screenshot](#screenshot)
-6. [Link](#link)
+4. [Screenshot](#screenshot)
+5. [Link](#link)
 ---
 
 ## Overview
